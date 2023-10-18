@@ -1,7 +1,7 @@
 # Web Projects
 
 In development web for college project: 
-- [../LinusTechTips0/index.html](/LinusTechTips0/index.html)
+- [../LinusTechTips/1st_version/index.html](/LinusTechTips/1st_version/index.html)
 
 
 
