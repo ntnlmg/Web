@@ -34,17 +34,7 @@
     display: grid;
     grid-template-columns: repeat(2, auto); /* Menyusun dua kolom */
     gap: 10px; /* Mengatur jarak antara elemen-elemen */
-  }
-  
-  .input-grid {
-    display: flex;
-    gap: 10px; /* Adjust the gap as needed to control the spacing between inputs. */
-  }
-  
-  .input-grid input {
-    flex: 1;
-  }
-    
+  } 
   
   .form-popup {
     display: none;
